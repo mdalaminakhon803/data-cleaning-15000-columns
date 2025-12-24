@@ -1,4 +1,4 @@
-# data-cleaning-14,833-columns
+# data-cleaning-14,833-colums
 Large-scale data cleaning project
 #
 # Large-Scale Data Cleaning Project (14,833+ Columns)
